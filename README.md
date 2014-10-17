@@ -35,6 +35,7 @@ Default credentials are:
 + password: admin
 + application code: 1234567890
 
+[ ![Codeship Status for Lapalissiano/baasbox](https://www.codeship.io/projects/63fb56c0-3839-0132-1daa-26b918746a8c/status)](https://www.codeship.io/projects/41930)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/baasbox/baasbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
