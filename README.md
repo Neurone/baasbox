@@ -17,7 +17,7 @@ Download the source code from [GitHub](https://github.com/baasbox/baasbox)
 ### Build
 Go to your local BaasBox source code directory and type:
 
-`play clean-all baas`
+`play clean-all baasbox`
 
 Play! will build BaasBox and will create a .zip file in the ./dist directory.
 
